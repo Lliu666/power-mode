@@ -15,5 +15,6 @@ document.body.addEventListener('input', POWERMODE);
 
 
 ## 演示站点
+- http://pay.xingly.cn/power-code/ 爆炸输入特效演示站点
 
-- http://xingly.cn
+- http://xingly.cn 新零云博客
