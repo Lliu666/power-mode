@@ -1,8 +1,13 @@
 # activate-power-mode
 
-新零云博客转载。
+[power mode](https://github.com/codeinthedark/editor/pull/1) script for any website
 
-## 如何实用
+[demo](http://0xABCDEF.com/activate-power-mode/)
+
+used [textarea-caret-position library](https://github.com/component/textarea-caret-position).
+
+
+## how to use
 
 ```html
 <script src="activate-power-mode.js"></script>
@@ -14,6 +19,6 @@ document.body.addEventListener('input', POWERMODE);
 ```
 
 
-## 演示站点
+## showcase
 
-- http://xingly.cn
+- http://blog.wangjunfeng.com/
